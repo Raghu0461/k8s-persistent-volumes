@@ -1,2 +1,2 @@
 #!/bin/sh
-python add.py config.txt
+python3 add.py config.txt
