@@ -1,0 +1,2 @@
+This is a simple configuration file containing a message.
+You can replace this with any content you'd like.
